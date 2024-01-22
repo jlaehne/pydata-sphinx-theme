@@ -1,0 +1,163 @@
+# English translations for pydata-sphinx-theme.
+# Copyright (C) 2024 PyData developers
+# This file is distributed under the same license as the pydata-sphinx-theme
+# project.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-01-22 23:59-0100\n"
+"PO-Revision-Date: 2024-01-22 23:59-0100\n"
+"Last-Translator: Jonas Lähnemann <jonas@pdi-berlin.de>\n"
+"Language: de\n"
+"Language-Team: German <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.0\n"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/layout.html:53
+msgid "Skip to main content"
+msgstr "Zum Hauptinhalt wechseln"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/layout.html:64
+msgid "Back to top"
+msgstr "Zurück nach oben"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/search-button-field.html:5
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/search-button-field.html:7
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/search-button.html:5
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/search.html:5
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/search.html:28
+msgid "Search"
+msgstr "Suche"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/search.html:8
+msgid "Error"
+msgstr "Fehler"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/search.html:9
+msgid "Please activate JavaScript to enable the search functionality."
+msgstr "Bitte aktivieren Sie JavaScript, um die Suchfunktion zu aktivieren."
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/breadcrumbs.html:13
+msgid "Breadcrumb"
+msgstr ""
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/breadcrumbs.html:17
+msgid "Home"
+msgstr "Startseite"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/copyright.html:5
+#, python-format
+msgid "© <a href=\"%(path)s\">Copyright</a> %(copyright)s."
+msgstr ""
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/copyright.html:8
+#, python-format
+msgid "© Copyright %(copyright)s."
+msgstr ""
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/edit-this-page.html:10
+#, python-format
+msgid "Edit on %(provider)s"
+msgstr "Bearbeitet am %(provider)s"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/edit-this-page.html:12
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/indices.html:4
+msgid "Indices"
+msgstr "Indizes"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/indices.html:11
+msgid "General Index"
+msgstr "Allgemeiner Index"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/indices.html:15
+msgid "Global Module Index"
+msgstr "Index globaler Module"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/indices.html:19
+msgid "Python Module Index"
+msgstr "Index der Python-Module"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/last-updated.html:4
+#, python-format
+msgid "Last updated on %(last_updated)s."
+msgstr "Zuletzt aktualisiert am %(last_updated)s."
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/navbar-nav.html:6
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/navbar-nav.html:7
+msgid "Site Navigation"
+msgstr "Seitennavigation"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/page-toc.html:8
+msgid "On this page"
+msgstr "Auf dieser Seite"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/prev-next.html:6
+msgid "previous page"
+msgstr "letzte Seite"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/prev-next.html:9
+msgid "previous"
+msgstr "zurück"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/prev-next.html:17
+msgid "next page"
+msgstr "nächste Seite"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/prev-next.html:19
+msgid "next"
+msgstr "weiter"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/sidebar-nav-bs.html:3
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/sidebar-nav-bs.html:4
+msgid "Section Navigation"
+msgstr "Abschnittsnavigation"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/sourcelink.html:5
+msgid "Show Source"
+msgstr "Quelltext anzeigen"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/sphinx-version.html:4
+#, python-format
+msgid ""
+"Created using <a href=\"https://www.sphinx-doc.org/\">Sphinx</a> "
+"%(sphinx_version)s."
+msgstr "Erstellt mit <a href=\"https://www.sphinx-doc.org/\">Sphinx</a> "
+"%(sphinx_version)s."
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/theme-switcher.html:5
+msgid "light/dark"
+msgstr "hell/dunkel"
+
+#: src/pydata_sphinx_theme/theme/pydata_sphinx_theme/components/theme-version.html:3
+#, python-format
+msgid ""
+"Built with the <a href=\"https://pydata-sphinx-"
+"theme.readthedocs.io/en/stable/index.html\">PyData Sphinx Theme</a> "
+"%(theme_version)s."
+msgstr "Basierend auf dem <a href=\"https://pydata-sphinx-"
+"theme.readthedocs.io/en/stable/index.html\">PyData Sphinx Thema</a> "
+"%(theme_version)s."
+
+#~ msgid "Breadcrumbs"
+#~ msgstr ""
+
+#~ msgid "GitHub"
+#~ msgstr ""
+
+#~ msgid "GitLab"
+#~ msgstr ""
+
+#~ msgid "Bitbucket"
+#~ msgstr ""
+
+#~ msgid "Twitter"
+#~ msgstr ""
+
